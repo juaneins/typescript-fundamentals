@@ -1,4 +1,4 @@
-import { Player, Countries } from './Player';
+import { Player, Countries } from './player';
 
 export interface Team {
     $key?: string;
